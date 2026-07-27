@@ -16,4 +16,5 @@ System.out.println(y);
 
     }
 }
+//Methods breaks the program or appication into smaller parts or blocksand helps in reusable modules.
 //If the method is void it cannot return a value. 
